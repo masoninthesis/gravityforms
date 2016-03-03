@@ -3,6 +3,6 @@
     "version": "master",
     "source": {
         "url": "git@github.com:masoninthesis/gravityforms.git",
-        "type": "git"
+        "type": "vcs"
     }
 }

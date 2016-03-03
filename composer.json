@@ -1,18 +1,8 @@
 {
-  "name": "masoninthesis/plugin-name",
-  "description": "Easily create web forms and manage form entries within the WordPress admin.",
-  "keywords": ["wordpress", "plugin"],
-  "homepage": "https://jackalopemedia.com",
-  "license": "Match plugins original lisence",
-  "authors": [
-    {
-      "name": "Gravity Forms",
-      "homepage": "http://www.gravityforms.com/"
+    "name": "masoninthesis/plugin-name",
+    "version": "master",
+    "source": {
+        "url": "git@github.com:masoninthesis/gravityforms.git",
+        "type": "git"
     }
-  ],
-  "type": "wordpress-plugin",
-  "minimum-stability": "dev",
-  "require": {
-    "composer/installers": "v1.0-dev"
-  }
 }
